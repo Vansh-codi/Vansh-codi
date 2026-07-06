@@ -21,7 +21,7 @@
 
 ```
 > Initializing profile...
-> Loading projects: [AgentOps] [Orion] [AvatarAI]
+> Loading projects: [AgentOps] [Orion] [AvatarAI] [SkinCancer]
 > Status: Building in public · Shipping products · Learning daily
 ```
 
